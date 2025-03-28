@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <h1>Hi I'm Annika 👋</h1>
-  🌱 Currently studying CompSci at Rheinische Friedrich-Wilhelms-Universität Bonn</li>
-</div>
-
 <div id="devicons" align="center">
   <h2>Favorites</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
@@ -20,7 +15,7 @@
 
 <div id="stats" align="center">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=NikaNikaNii&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=NikaNikaNii&theme=catppuccin-mocha&hide_current_streak=true" alt="GitHub Streak"/>
 </div>
 
 
